@@ -1,0 +1,26 @@
+{
+    "courses": [
+        {
+            "name": "Computer Science 101",
+            "code": "CS101",
+            "level": 100,
+            "size": 30,
+            "type": "theory",
+            "program": "Computer Science"
+        }
+        
+    ],
+    "rooms": [
+        {
+            "name": "Room 101",
+            "capacity": 50,
+            "type": "theory"
+        }
+        
+    ],
+    "constraints": {
+        "start": 7,
+        "end": 18,
+        "days": ["Monday", "Tuesday", "Thursday"]
+    }
+}
